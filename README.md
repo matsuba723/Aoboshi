@@ -1,5 +1,9 @@
 # Aoboshi
 
+<img src="./aoboshi_sample.png" />
+
+
+
 <h2>このフォントについて</h2>
 「あおぼし」はCopperplate Gothicのような<br />
 文字の太さが均一でセリフのある和文書体を目指して制作しました。<br />
