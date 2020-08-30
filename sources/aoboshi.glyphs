@@ -2,7 +2,7 @@
 .appVersion = "1346";
 DisplayStrings = (
 "/uni4E00/uni4E09/uni4E0A/uni4E2D/uni4E38/uni4E8C/uni4EAC/uni4EBA/uni4ECA/uni4ED8/uni4F1D/uni4FC2/uni5149/uni5175/uni51FA/uni5206/uni5211/uni5272/uni529B/uni52C9/uni5343/uni5353/uni53D6/uni53E3/uni5468/uni5668/uni56FD/uni58F2/uni5909/uni590F/uni5916/uni591C/uni5927/uni5973/uni597D/uni59B9/uni59EB/uni5B50/uni5B66/uni5B97/uni5BB6/uni5BD2/uni5BFE/uni5C0E/uni5C0F/uni5C11/uni5C4B/uni5C71/uni5E03/uni5F62/uni5F79/uni5FAE/uni601D/uni604B/uni60C5/uni611B/uni6210/uni6211/uni624B/uni6253/uni62B1/uni6307/uni6319/uni63A2/uni6458/uni6591/uni65B0/uni65E5/uni660E/uni661F/uni66F8/uni6708/uni670D/uni6728/uni672C/uni6771/uni677E/uni6839/uni6848/uni6BCD/uni6C17/uni6C38/uni6D88/uni6DF1/uni6E6F/uni706B/uni706F/uni713C/uni7269/uni72D0/uni72EC/uni738B/uni7406/uni7531/uni767A/uni767D/uni76EE/uni77E5/uni79C1/uni7A74/uni7A7A/uni7ACB/uni7BB1/uni7D04/uni7DD2/uni8003/uni805E/uni81EA/uni83DC/uni8449/uni888B/uni898B/uni8A00/uni8A73/uni8A9E/uni8AB0/uni8B66/uni8C46/uni8CA8/uni8FBB/uni8FD1/uni901A/uni9060/uni90E8/uni916C/uni9280/uni9577/uni95A2/uni9650/uni968A/uni96A0/uni96D1/uni96EA/uni970A/uni9752/uni97FF/uni98A8/uni98DF/uni9999/uni9B31/uni9B5A/uni9CE5/uni9DF9/uni9E97",
-"/uni5927/uni6587/uni5B57/uni98F4/uni845B/uni86F8/uni9BD6/uni9C2F/uni564C/uni5E96/uni7BB8",
+"/uni5927/uni6587/uni5B57/uni98F4/uni9BD6/uni9C2F/uni5E96/uni7BB8",
 "/uni59B9/uni5FAE/uni6211"
 );
 copyright = "Copyright © 2018 by IKIMOJI. All rights reserved.";
@@ -432,7 +432,7 @@ options = 3;
 },
 {
 origin = "{3, 0}";
-scale = "{0.9365, 1}";
+scale = "{0.92857, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -624,7 +624,7 @@ hints = (
 {
 origin = "{0, 15}";
 target = "{0, 16}";
-scale = "{1.03868, 1}";
+scale = "{1.03373, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -632,7 +632,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.14322, 1}";
+scale = "{1.14929, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -889,7 +889,7 @@ unicode = 0044;
 },
 {
 glyphname = Eth;
-lastChange = "2020-03-13 12:34:05 +0000";
+lastChange = "2020-08-30 10:00:41 +0000";
 layers = (
 {
 components = (
@@ -910,7 +910,7 @@ nodes = (
 );
 }
 );
-width = 737;
+width = 747;
 }
 );
 rightMetricsKey = O;
@@ -1281,7 +1281,7 @@ options = 3;
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{1.1032, 1}";
+scale = "{1.11111, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1289,7 +1289,7 @@ options = 3;
 {
 origin = "{0, 3}";
 target = "{0, 0}";
-scale = "{1.1032, 1}";
+scale = "{1.11111, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1470,7 +1470,7 @@ hints = (
 {
 origin = "{0, 11}";
 target = "{0, 12}";
-scale = "{0.97983, 1}";
+scale = "{0.98182, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1516,14 +1516,14 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2020-03-13 12:37:20 +0000";
+lastChange = "2020-08-30 10:00:41 +0000";
 layers = (
 {
 hints = (
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.0238, 1}";
+scale = "{1.01587, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1531,7 +1531,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.0238, 1}";
+scale = "{1.01587, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1566,33 +1566,33 @@ paths = (
 {
 closed = 1;
 nodes = (
-"164 244 LINE",
-"665 750 LINE",
-"492 750 LINE",
-"107 362 LINE",
-"107 244 LINE"
+"162 244 LINE",
+"663 750 LINE",
+"490 750 LINE",
+"105 362 LINE",
+"105 244 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"202 0 LINE",
-"202 750 LINE",
-"74 750 LINE",
-"74 0 LINE"
+"200 0 LINE",
+"200 750 LINE",
+"72 750 LINE",
+"72 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"699 0 LINE",
-"284 460 LINE",
-"185 371 LINE",
-"519 0 LINE"
+"697 0 LINE",
+"282 460 LINE",
+"183 371 LINE",
+"517 0 LINE"
 );
 }
 );
-width = 710;
+width = 708;
 }
 );
 leftMetricsKey = I;
@@ -1600,14 +1600,14 @@ unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2020-03-13 12:36:51 +0000";
+lastChange = "2020-08-30 10:00:41 +0000";
 layers = (
 {
 hints = (
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{1.05556, 1}";
+scale = "{1.06349, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1631,23 +1631,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"206 0 LINE",
-"206 750 LINE",
-"72 750 LINE",
-"72 0 LINE"
+"207 0 LINE",
+"207 750 LINE",
+"73 750 LINE",
+"73 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"555 0 LINE",
-"555 122 LINE",
-"117 122 LINE",
-"117 0 LINE"
+"556 0 LINE",
+"556 122 LINE",
+"118 122 LINE",
+"118 0 LINE"
 );
 }
 );
-width = 585;
+width = 586;
 }
 );
 leftMetricsKey = I;
@@ -1655,7 +1655,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2020-03-14 06:14:49 +0000";
+lastChange = "2020-08-30 10:00:41 +0000";
 layers = (
 {
 hints = (
@@ -1670,7 +1670,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{1.03175, 1}";
+scale = "{1.02381, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1729,7 +1729,7 @@ nodes = (
 );
 }
 );
-width = 991;
+width = 990;
 },
 {
 associatedMasterId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
@@ -1814,14 +1814,14 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2020-03-13 12:36:51 +0000";
+lastChange = "2020-08-30 10:00:41 +0000";
 layers = (
 {
 hints = (
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.06349, 1}";
+scale = "{1.07143, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1829,7 +1829,7 @@ options = 3;
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{1.05556, 1}";
+scale = "{1.06349, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -1862,34 +1862,34 @@ paths = (
 {
 closed = 1;
 nodes = (
-"656 0 LINE",
-"669 91 LINE",
-"194 750 LINE",
-"120 750 LINE",
-"106 663 LINE",
-"586 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"208 0 LINE",
-"208 750 LINE",
-"73 750 LINE",
-"73 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"702 0 LINE",
-"702 750 LINE",
-"568 750 LINE",
+"657 0 LINE",
+"670 91 LINE",
+"195 750 LINE",
+"121 750 LINE",
+"107 663 LINE",
 "587 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"209 0 LINE",
+"209 750 LINE",
+"74 750 LINE",
+"74 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"703 0 LINE",
+"703 750 LINE",
+"569 750 LINE",
+"588 0 LINE"
 );
 }
 );
-width = 775;
+width = 776;
 }
 );
 leftMetricsKey = I;
@@ -1898,7 +1898,7 @@ unicode = 004E;
 },
 {
 glyphname = Ntilde;
-lastChange = "2020-03-13 12:36:55 +0000";
+lastChange = "2020-08-30 11:01:23 +0000";
 layers = (
 {
 components = (
@@ -1911,7 +1911,7 @@ transform = "{1, 0, 0, 1, 43, 0}";
 }
 );
 layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 775;
+width = 776;
 }
 );
 unicode = 00D1;
@@ -2162,7 +2162,7 @@ options = 3;
 },
 {
 origin = "{4, 0}";
-scale = "{0.9365, 1}";
+scale = "{0.92857, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -2393,7 +2393,7 @@ hints = (
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{1.0356, 1}";
+scale = "{1.03266, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -2401,7 +2401,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{1.0365, 1}";
+scale = "{1.03284, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -2648,7 +2648,7 @@ options = 3;
 {
 origin = "{0, 35}";
 target = "{0, 36}";
-scale = "{1.11747, 1}";
+scale = "{1.1229, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -2803,7 +2803,7 @@ options = 3;
 {
 origin = "{0, 3}";
 target = "{0, 0}";
-scale = "{1.0873, 1}";
+scale = "{1.07937, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -4174,7 +4174,7 @@ name = _corner.serfRight;
 },
 {
 origin = "{3, 7}";
-scale = "{0.85486, 1}";
+scale = "{0.84891, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -4635,7 +4635,7 @@ layers = (
 hints = (
 {
 origin = "{2, 3}";
-scale = "{0.9877, 1}";
+scale = "{0.98211, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -5002,7 +5002,7 @@ hints = (
 {
 origin = "{0, 15}";
 target = "{0, 16}";
-scale = "{0.93705, 1}";
+scale = "{0.93832, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -5656,14 +5656,14 @@ unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2020-03-14 10:45:23 +0000";
+lastChange = "2020-08-30 10:00:41 +0000";
 layers = (
 {
 hints = (
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{1.01587, 1}";
+scale = "{1.00794, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -5671,7 +5671,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{1.01587, 1}";
+scale = "{1.00794, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -5706,33 +5706,33 @@ paths = (
 {
 closed = 1;
 nodes = (
-"189 87 LINE",
-"510 460 LINE",
-"358 460 LINE",
-"112 176 LINE",
-"118 87 LINE"
+"188 87 LINE",
+"509 460 LINE",
+"357 460 LINE",
+"111 176 LINE",
+"117 87 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"518 0 LINE",
-"325 256 LINE",
-"187 256 LINE",
-"373 0 LINE"
+"517 0 LINE",
+"324 256 LINE",
+"186 256 LINE",
+"372 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"200 0 LINE",
-"200 750 LINE",
-"73 750 LINE",
-"73 0 LINE"
+"199 0 LINE",
+"199 750 LINE",
+"72 750 LINE",
+"72 0 LINE"
 );
 }
 );
-width = 548;
+width = 547;
 }
 );
 leftMetricsKey = l;
@@ -6651,7 +6651,7 @@ hints = (
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{0.99206, 1}";
+scale = "{0.98413, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -6786,7 +6786,7 @@ options = 3;
 {
 origin = "{0, 14}";
 target = "{0, 15}";
-scale = "{0.80488, 1}";
+scale = "{0.79887, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -6943,7 +6943,7 @@ options = 3;
 {
 origin = "{0, 22}";
 target = "{0, 23}";
-scale = "{0.96633, 1}";
+scale = "{0.95884, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -7216,7 +7216,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2020-03-14 04:33:19 +0000";
+lastChange = "2020-08-30 10:00:32 +0000";
 layers = (
 {
 hints = (
@@ -7246,44 +7246,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"388 -9 OFFCURVE",
-"456 80 OFFCURVE",
-"470 170 CURVE SMOOTH",
-"481 242 OFFCURVE",
-"501 286 OFFCURVE",
-"501 333 CURVE SMOOTH",
-"501 460 LINE",
-"377 460 LINE",
-"377 205 LINE SMOOTH",
-"377 153 OFFCURVE",
-"351 109 OFFCURVE",
-"289 109 CURVE SMOOTH",
-"223 109 OFFCURVE",
-"199 159 OFFCURVE",
-"199 211 CURVE SMOOTH",
-"199 460 LINE",
-"73 460 LINE",
-"73 203 LINE SMOOTH",
-"73 94 OFFCURVE",
-"126 -9 OFFCURVE",
-"276 -9 CURVE SMOOTH"
+"387 -9 OFFCURVE",
+"455 80 OFFCURVE",
+"469 170 CURVE SMOOTH",
+"480 242 OFFCURVE",
+"500 286 OFFCURVE",
+"500 333 CURVE SMOOTH",
+"500 460 LINE",
+"376 460 LINE",
+"376 205 LINE SMOOTH",
+"376 153 OFFCURVE",
+"350 109 OFFCURVE",
+"288 109 CURVE SMOOTH",
+"222 109 OFFCURVE",
+"198 159 OFFCURVE",
+"198 211 CURVE SMOOTH",
+"198 460 LINE",
+"72 460 LINE",
+"72 203 LINE SMOOTH",
+"72 94 OFFCURVE",
+"125 -9 OFFCURVE",
+"275 -9 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"501 0 LINE",
-"501 460 LINE",
-"380 460 LINE",
-"380 349 LINE",
-"422 298 LINE",
-"422 165 LINE",
-"399 133 LINE",
-"399 0 LINE"
+"500 0 LINE",
+"500 460 LINE",
+"379 460 LINE",
+"379 349 LINE",
+"421 298 LINE",
+"421 165 LINE",
+"398 133 LINE",
+"398 0 LINE"
 );
 }
 );
-width = 573;
+width = 572;
 }
 );
 leftMetricsKey = l;
@@ -7292,7 +7292,7 @@ unicode = 0075;
 },
 {
 glyphname = uacute;
-lastChange = "2020-03-14 04:33:20 +0000";
+lastChange = "2020-08-30 11:01:23 +0000";
 layers = (
 {
 components = (
@@ -7305,14 +7305,14 @@ transform = "{1, 0, 0, 1, -2, -280}";
 }
 );
 layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 573;
+width = 572;
 }
 );
 unicode = 00FA;
 },
 {
 glyphname = ucircumflex;
-lastChange = "2020-03-14 04:33:20 +0000";
+lastChange = "2020-08-30 11:01:23 +0000";
 layers = (
 {
 components = (
@@ -7325,14 +7325,14 @@ transform = "{1, 0, 0, 1, 69, -280}";
 }
 );
 layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 573;
+width = 572;
 }
 );
 unicode = 00FB;
 },
 {
 glyphname = udieresis;
-lastChange = "2020-03-14 04:33:20 +0000";
+lastChange = "2020-08-30 11:01:23 +0000";
 layers = (
 {
 components = (
@@ -7345,14 +7345,14 @@ transform = "{1, 0, 0, 1, -7, -280}";
 }
 );
 layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 573;
+width = 572;
 }
 );
 unicode = 00FC;
 },
 {
 glyphname = ugrave;
-lastChange = "2020-03-14 04:33:20 +0000";
+lastChange = "2020-08-30 11:01:23 +0000";
 layers = (
 {
 components = (
@@ -7365,7 +7365,7 @@ transform = "{1, 0, 0, 1, -2, -280}";
 }
 );
 layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 573;
+width = 572;
 }
 );
 unicode = 00F9;
@@ -14254,16 +14254,6 @@ width = 1000;
 }
 );
 unicode = 5468;
-},
-{
-glyphname = uni564C;
-layers = (
-{
-layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 1000;
-}
-);
-unicode = 564C;
 },
 {
 glyphname = uni5668;
@@ -40792,26 +40782,6 @@ width = 1000;
 unicode = 8449;
 },
 {
-glyphname = uni845B;
-layers = (
-{
-layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 1000;
-}
-);
-unicode = 845B;
-},
-{
-glyphname = uni86F8;
-layers = (
-{
-layerId = "D36B0F94-A848-4C2C-9ADF-F92FCBE7F4F5";
-width = 1000;
-}
-);
-unicode = 86F8;
-},
-{
 glyphname = uni888B;
 lastChange = "2019-01-26 15:46:36 +0000";
 layers = (
@@ -58893,7 +58863,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.1111, 1}";
+scale = "{1.11905, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -58901,7 +58871,7 @@ options = 3;
 {
 origin = "{1, 11}";
 target = "{1, 0}";
-scale = "{1.1508, 1}";
+scale = "{1.15873, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -58909,7 +58879,7 @@ options = 3;
 {
 origin = "{1, 5}";
 target = "{1, 6}";
-scale = "{1.0592, 1}";
+scale = "{1.0546, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -59288,7 +59258,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.9603, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -59304,7 +59274,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{0.9603, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -59320,7 +59290,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{1.0873, 1}";
+scale = "{1.07937, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -59721,7 +59691,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{1.0004, 1}";
+scale = "{1.00722, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -59936,7 +59906,7 @@ layers = (
 hints = (
 {
 origin = "{0, 21}";
-scale = "{0.9206, 1}";
+scale = "{0.9127, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -59964,7 +59934,7 @@ options = 3;
 },
 {
 origin = "{2, 0}";
-scale = "{0.9609, 1}";
+scale = "{0.95413, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60187,7 +60157,7 @@ options = 3;
 {
 origin = "{0, 15}";
 target = "{0, 16}";
-scale = "{1.014, 1}";
+scale = "{1.00722, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60195,7 +60165,7 @@ options = 3;
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{1.0464, 1}";
+scale = "{1.03908, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60395,7 +60365,7 @@ hints = (
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60403,7 +60373,7 @@ options = 3;
 {
 origin = "{3, 2}";
 target = "{3, 3}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60411,7 +60381,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{0.9921, 1}";
+scale = "{0.99685, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60419,7 +60389,7 @@ options = 3;
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{0.9921, 1}";
+scale = "{0.99685, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60427,7 +60397,7 @@ options = 3;
 {
 origin = "{3, 0}";
 target = "{3, 1}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60435,7 +60405,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60443,7 +60413,7 @@ options = 3;
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{1.0234, 1}";
+scale = "{1.0194, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60451,7 +60421,7 @@ options = 3;
 {
 origin = "{0, 3}";
 target = "{0, 0}";
-scale = "{1.0371, 1}";
+scale = "{1.04044, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60649,7 +60619,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 0}";
-scale = "{1.2169, 1}";
+scale = "{1.22091, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60657,7 +60627,7 @@ options = 3;
 {
 origin = "{0, 4}";
 target = "{0, 5}";
-scale = "{1.1349, 1}";
+scale = "{1.14286, 1}";
 type = Cap;
 name = _cap.serf2;
 options = 3;
@@ -60713,7 +60683,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{1.0397, 1}";
+scale = "{1.04762, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -60737,7 +60707,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{1.0397, 1}";
+scale = "{1.04762, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61159,7 +61129,7 @@ hints = (
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{1.07381, 1}";
+scale = "{1.07773, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61167,7 +61137,7 @@ options = 3;
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{1.07381, 1}";
+scale = "{1.06863, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61175,7 +61145,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{1.0079, 1}";
+scale = "{1.01587, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61183,7 +61153,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{1.0079, 1}";
+scale = "{1.01587, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61191,7 +61161,7 @@ options = 3;
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{1.0122, 1}";
+scale = "{1.00496, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61199,7 +61169,7 @@ options = 3;
 {
 origin = "{0, 3}";
 target = "{0, 0}";
-scale = "{1.0798, 1}";
+scale = "{1.0726, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61363,7 +61333,7 @@ options = 3;
 {
 origin = "{0, 22}";
 target = "{0, 23}";
-scale = "{1.1429, 1}";
+scale = "{1.15079, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -61747,7 +61717,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.0714, 1}";
+scale = "{1.06349, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62080,7 +62050,7 @@ hints = (
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{0.8968, 1}";
+scale = "{0.88889, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62104,7 +62074,6 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{0.9921, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62112,7 +62081,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.0215, 1}";
+scale = "{1.01652, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62120,7 +62089,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.8968, 1}";
+scale = "{0.88889, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62128,7 +62097,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.0139, 1}";
+scale = "{1.00897, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62136,7 +62105,7 @@ options = 3;
 {
 origin = "{1, 6}";
 target = "{1, 7}";
-scale = "{0.9698, 1}";
+scale = "{0.97089, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62346,6 +62315,7 @@ hints = (
 {
 origin = "{1, 2}";
 target = "{1, 3}";
+scale = "{0.99206, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62353,6 +62323,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
+scale = "{0.99206, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62534,7 +62505,7 @@ hints = (
 {
 origin = "{0, 9}";
 target = "{0, 10}";
-scale = "{1.1032, 1}";
+scale = "{1.09524, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62775,7 +62746,7 @@ hints = (
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{1.0238, 1}";
+scale = "{1.03175, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62783,7 +62754,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{1.0238, 1}";
+scale = "{1.03175, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62791,7 +62762,7 @@ options = 3;
 {
 origin = "{0, 17}";
 target = "{0, 0}";
-scale = "{1.1453, 1}";
+scale = "{1.15079, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -62937,7 +62908,7 @@ hints = (
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.0672, 1}";
+scale = "{1.07143, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -63083,7 +63054,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{0.8571, 1}";
+scale = "{0.86508, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -63091,7 +63062,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.8571, 1}";
+scale = "{0.86508, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -63115,7 +63086,7 @@ options = 3;
 {
 origin = "{0, 17}";
 target = "{0, 18}";
-scale = "{1.1032, 1}";
+scale = "{1.11111, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -63496,7 +63467,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{1.0873, 1}";
+scale = "{1.09524, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -63504,7 +63475,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{1.0873, 1}";
+scale = "{1.09524, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -63787,7 +63758,7 @@ hints = (
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.1588, 1}";
+scale = "{1.16191, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -63795,7 +63766,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.0254, 1}";
+scale = "{1.027, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64104,7 +64075,7 @@ hints = (
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64112,7 +64083,7 @@ options = 3;
 {
 origin = "{0, 14}";
 target = "{0, 15}";
-scale = "{1.0859, 1}";
+scale = "{1.09057, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64120,7 +64091,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.9444, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64128,7 +64099,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64136,7 +64107,7 @@ options = 3;
 {
 origin = "{4, 0}";
 target = "{4, 1}";
-scale = "{1.1825, 1}";
+scale = "{1.19048, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64619,7 +64590,7 @@ hints = (
 {
 origin = "{0, 19}";
 target = "{0, 20}";
-scale = "{1.056, 1}";
+scale = "{1.05877, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64748,7 +64719,7 @@ hints = (
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.0873, 1}";
+scale = "{1.09524, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64762,7 +64733,7 @@ name = _cap.serf;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.0873, 1}";
+scale = "{1.09524, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -64940,6 +64911,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
+scale = "{1.0039, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -65324,7 +65296,7 @@ hints = (
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.1794, 1}";
+scale = "{1.18743, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -65332,7 +65304,7 @@ options = 3;
 {
 origin = "{0, 5}";
 target = "{0, 6}";
-scale = "{1.2691, 1}";
+scale = "{1.2633, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -65810,7 +65782,7 @@ hints = (
 {
 origin = "{1, 10}";
 target = "{1, 6}";
-scale = "{1.0528, 1}";
+scale = "{1.05987, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -65834,7 +65806,7 @@ options = 3;
 {
 origin = "{0, 4}";
 target = "{0, 5}";
-scale = "{0.9762, 1}";
+scale = "{0.98413, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -66343,7 +66315,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.0748, 1}";
+scale = "{1.06916, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -66356,7 +66328,7 @@ name = _corner.serfRight;
 {
 origin = "{0, 17}";
 target = "{0, 18}";
-scale = "{0.9356, 1}";
+scale = "{0.93125, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -66748,7 +66720,7 @@ options = 3;
 {
 origin = "{0, 14}";
 target = "{0, 15}";
-scale = "{1.0994, 1}";
+scale = "{1.09181, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -66964,7 +66936,7 @@ options = 3;
 {
 origin = "{0, 36}";
 target = "{0, 37}";
-scale = "{0.9688, 1}";
+scale = "{0.96663, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67048,7 +67020,7 @@ hints = (
 {
 origin = "{2, 10}";
 target = "{2, 11}";
-scale = "{1.07, 1}";
+scale = "{1.07694, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67064,7 +67036,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.0159, 1}";
+scale = "{1.02381, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67072,7 +67044,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.0159, 1}";
+scale = "{1.02381, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67424,14 +67396,14 @@ options = 3;
 },
 {
 origin = "{0, 17}";
-scale = "{1.0397, 1}";
+scale = "{1.03175, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{1, 0}";
-scale = "{0.9127, 1}";
+scale = "{0.90476, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67510,7 +67482,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.0293, 1}";
+scale = "{1.03689, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67518,7 +67490,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.0217, 1}";
+scale = "{1.027, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67584,7 +67556,7 @@ hints = (
 {
 origin = "{0, 10}";
 target = "{0, 11}";
-scale = "{1.1345, 1}";
+scale = "{1.13561, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -67600,7 +67572,7 @@ options = 3;
 {
 origin = "{1, 5}";
 target = "{1, 6}";
-scale = "{1.1111, 1}";
+scale = "{1.10317, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68146,7 +68118,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.9762, 1}";
+scale = "{0.98413, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68154,7 +68126,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.0611, 1}";
+scale = "{1.06565, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68162,7 +68134,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{0.9841, 1}";
+scale = "{0.99206, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68170,7 +68142,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{0.9841, 1}";
+scale = "{0.99206, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68186,7 +68158,7 @@ options = 3;
 {
 origin = "{3, 0}";
 target = "{3, 1}";
-scale = "{0.9807, 1}";
+scale = "{0.98796, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68273,7 +68245,7 @@ options = 3;
 {
 origin = "{1, 5}";
 target = "{1, 6}";
-scale = "{0.9127, 1}";
+scale = "{0.92036, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68281,7 +68253,7 @@ options = 3;
 {
 origin = "{0, 19}";
 target = "{0, 20}";
-scale = "{1.0474, 1}";
+scale = "{1.05436, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -68845,7 +68817,7 @@ options = 3;
 {
 origin = "{0, 30}";
 target = "{0, 31}";
-scale = "{0.9869, 1}";
+scale = "{0.99523, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -69523,7 +69495,7 @@ hints = (
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{0.9444, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -69539,7 +69511,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{0.9444, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -69547,7 +69519,7 @@ options = 3;
 {
 origin = "{0, 9}";
 target = "{0, 10}";
-scale = "{0.97671, 1}";
+scale = "{0.98291, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -69555,7 +69527,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{0.95238, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70048,7 +70020,7 @@ hints = (
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.0563, 1}";
+scale = "{1.06317, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70056,7 +70028,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.0523, 1}";
+scale = "{1.05922, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70210,7 +70182,7 @@ hints = (
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.0317, 1}";
+scale = "{1.03968, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70218,7 +70190,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{1.0304, 1}";
+scale = "{1.03753, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70242,7 +70214,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{1.0375, 1}";
+scale = "{1.03996, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70473,7 +70445,7 @@ hints = (
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.119, 1}";
+scale = "{1.11111, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70481,7 +70453,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.05922, 1}";
+scale = "{1.0563, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -70489,7 +70461,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.0849, 1}";
+scale = "{1.07682, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71236,7 +71208,7 @@ hints = (
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{0.8968, 1}";
+scale = "{0.90476, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71252,7 +71224,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{0.8968, 1}";
+scale = "{0.90476, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71260,7 +71232,7 @@ options = 3;
 {
 origin = "{3, 2}";
 target = "{3, 3}";
-scale = "{0.8968, 1}";
+scale = "{0.88889, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71347,7 +71319,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.0257, 1}";
+scale = "{1.03153, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71355,7 +71327,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.0331, 1}";
+scale = "{1.03905, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71579,14 +71551,14 @@ options = 3;
 },
 {
 origin = "{0, 2}";
-scale = "{1.0039, 1}";
+scale = "{0.99637, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{1, 2}";
-scale = "{0.9683, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71756,7 +71728,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.96428, 1}";
+scale = "{0.96767, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71764,7 +71736,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{0.95637, 1}";
+scale = "{0.95979, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71772,7 +71744,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{0.95637, 1}";
+scale = "{0.95979, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71780,7 +71752,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{0.96428, 1}";
+scale = "{0.96767, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71788,7 +71760,7 @@ options = 3;
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{0.9903, 1}";
+scale = "{0.98659, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71796,7 +71768,7 @@ options = 3;
 {
 origin = "{0, 3}";
 target = "{0, 0}";
-scale = "{0.9903, 1}";
+scale = "{0.98659, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71952,7 +71924,7 @@ hints = (
 {
 origin = "{1, 6}";
 target = "{1, 7}";
-scale = "{1.05269, 1}";
+scale = "{1.05731, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -71960,7 +71932,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{1.02088, 1}";
+scale = "{1.01986, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72274,7 +72246,7 @@ hints = (
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{0.98009, 1}";
+scale = "{0.98853, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72282,7 +72254,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{0.99767, 1}";
+scale = "{0.99397, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72631,6 +72603,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
+scale = "{1.00794, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72638,6 +72611,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
+scale = "{1.00794, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72834,7 +72808,7 @@ hints = (
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{0.9313, 1}";
+scale = "{0.94124, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72842,7 +72816,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{0.9337, 1}";
+scale = "{0.94368, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72850,7 +72824,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{0.9337, 1}";
+scale = "{0.93115, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -72858,7 +72832,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{0.9337, 1}";
+scale = "{0.93115, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73214,7 +73188,7 @@ hints = (
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{0.9959, 1}";
+scale = "{1.0038, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73222,7 +73196,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.0873, 1}";
+scale = "{1.07937, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73246,7 +73220,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{1.00195, 1}";
+scale = "{1.00869, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73414,7 +73388,7 @@ hints = (
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.08036, 1}";
+scale = "{1.07518, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73422,7 +73396,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.0953, 1}";
+scale = "{1.09676, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73438,7 +73412,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.1617, 1}";
+scale = "{1.15606, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73504,7 +73478,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{1.00597, 1}";
+scale = "{1.00816, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73512,7 +73486,7 @@ options = 3;
 {
 origin = "{2, 6}";
 target = "{2, 7}";
-scale = "{1.00402, 1}";
+scale = "{1.00906, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73520,7 +73494,7 @@ options = 3;
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{0.8902, 1}";
+scale = "{0.89626, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73536,7 +73510,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{0.9817, 1}";
+scale = "{0.97555, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -73848,7 +73822,7 @@ options = 3;
 {
 origin = "{0, 8}";
 target = "{0, 9}";
-scale = "{1.0253, 1}";
+scale = "{1.03141, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74103,7 +74077,7 @@ hints = (
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{0.9529, 1}";
+scale = "{0.96268, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74111,7 +74085,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{0.9529, 1}";
+scale = "{0.94953, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74127,7 +74101,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{0.9857, 1}";
+scale = "{0.98224, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74646,7 +74620,7 @@ hints = (
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{1.0397, 1}";
+scale = "{1.04762, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74670,7 +74644,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{1.0397, 1}";
+scale = "{1.04762, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74711,7 +74685,7 @@ hints = (
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{0.9893, 1}";
+scale = "{0.99523, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74719,7 +74693,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{0.984, 1}";
+scale = "{0.99, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74742,7 +74716,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.1471, 1}";
+scale = "{1.14013, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74885,7 +74859,7 @@ options = 3;
 {
 origin = "{3, 2}";
 target = "{3, 3}";
-scale = "{0.96032, 1}";
+scale = "{0.96825, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -74893,7 +74867,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{0.96825, 1}";
+scale = "{0.97619, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -75140,7 +75114,7 @@ hints = (
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{1.08385, 1}";
+scale = "{1.09112, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -75386,7 +75360,7 @@ hints = (
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.0556, 1}";
+scale = "{1.06349, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -75501,7 +75475,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.1618, 1}";
+scale = "{1.15612, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -75652,7 +75626,7 @@ hints = (
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{1.0453, 1}";
+scale = "{1.05125, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -75780,7 +75754,7 @@ options = 3;
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{0.9913, 1}";
+scale = "{0.99827, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -75788,7 +75762,7 @@ options = 3;
 {
 origin = "{0, 3}";
 target = "{0, 0}";
-scale = "{0.9913, 1}";
+scale = "{0.99827, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -75904,7 +75878,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{1.0635, 1}";
+scale = "{1.05556, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76137,7 +76111,7 @@ hints = (
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{1.0199, 1}";
+scale = "{1.016, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76145,7 +76119,7 @@ options = 3;
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{0.9638, 1}";
+scale = "{0.96975, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76153,7 +76127,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.1502, 1}";
+scale = "{1.14652, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76161,7 +76135,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{1.0474, 1}";
+scale = "{1.05529, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76288,7 +76262,7 @@ options = 3;
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.14572, 1}";
+scale = "{1.15112, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76296,7 +76270,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.16253, 1}";
+scale = "{1.1671, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76567,7 +76541,7 @@ hints = (
 {
 origin = "{0, 1}";
 target = "{0, 2}";
-scale = "{1.07141, 1.01}";
+scale = "{1.07615, 1.01}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76575,7 +76549,7 @@ options = 3;
 {
 origin = "{0, 3}";
 target = "{0, 0}";
-scale = "{1.07797, 1.01}";
+scale = "{1.08254, 1.01}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76583,7 +76557,7 @@ options = 3;
 {
 origin = "{2, 6}";
 target = "{2, 7}";
-scale = "{0.98334, 1.01}";
+scale = "{0.98054, 1.01}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76591,7 +76565,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{1.01959, 1.01}";
+scale = "{1.01714, 1.01}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -76599,7 +76573,7 @@ options = 3;
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{1.02141, 1.01}";
+scale = "{1.02605, 1.01}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77102,7 +77076,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.9683, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77110,7 +77084,7 @@ options = 3;
 {
 origin = "{2, 0}";
 target = "{2, 1}";
-scale = "{0.9683, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77118,6 +77092,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
+scale = "{1.00794, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77480,7 +77455,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.1043, 1}";
+scale = "{1.09676, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77488,7 +77463,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.1043, 1}";
+scale = "{1.09676, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77496,7 +77471,7 @@ options = 3;
 {
 origin = "{1, 6}";
 target = "{1, 7}";
-scale = "{1.0654, 1}";
+scale = "{1.07202, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77550,7 +77525,7 @@ hints = (
 {
 origin = "{1, 1}";
 target = "{1, 2}";
-scale = "{1.15873, 1}";
+scale = "{1.16667, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77700,7 +77675,7 @@ name = _corner.serfRight;
 {
 origin = "{0, 10}";
 target = "{0, 11}";
-scale = "{1.1442, 1}";
+scale = "{1.14929, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77873,7 +77848,7 @@ options = 3;
 {
 origin = "{3, 2}";
 target = "{3, 3}";
-scale = "{0.9683, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77881,7 +77856,7 @@ options = 3;
 {
 origin = "{2, 1}";
 target = "{2, 2}";
-scale = "{0.9683, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77889,7 +77864,7 @@ options = 3;
 {
 origin = "{3, 0}";
 target = "{3, 1}";
-scale = "{0.9683, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77905,7 +77880,7 @@ options = 3;
 {
 origin = "{2, 3}";
 target = "{2, 0}";
-scale = "{0.9683, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77985,7 +77960,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
-scale = "{0.9444, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -77993,7 +77968,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78001,7 +77976,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{0.9524, 1}";
+scale = "{0.96032, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78017,7 +77992,7 @@ options = 3;
 {
 origin = "{3, 6}";
 target = "{3, 7}";
-scale = "{0.88751, 1}";
+scale = "{0.88127, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78025,7 +78000,7 @@ options = 3;
 {
 origin = "{3, 2}";
 target = "{3, 3}";
-scale = "{0.91435, 1}";
+scale = "{0.91906, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78203,6 +78178,7 @@ hints = (
 {
 origin = "{2, 2}";
 target = "{2, 3}";
+scale = "{1.00794, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78210,7 +78186,7 @@ options = 3;
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{0.9683, 1}";
+scale = "{0.97619, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78226,7 +78202,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.0477, 1}";
+scale = "{1.04005, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78301,7 +78277,7 @@ hints = (
 {
 origin = "{1, 3}";
 target = "{1, 0}";
-scale = "{1.1066, 1}";
+scale = "{1.10799, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -78317,7 +78293,7 @@ options = 3;
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.1085, 1}";
+scale = "{1.11544, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -79348,7 +79324,7 @@ hints = (
 {
 origin = "{1, 9}";
 target = "{1, 10}";
-scale = "{1.11905, 1}";
+scale = "{1.11111, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -79356,7 +79332,7 @@ options = 3;
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{0.94444, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -79652,14 +79628,14 @@ hints = (
 {
 origin = "{0, 22}";
 target = "{0, 23}";
-scale = "{1.10568, 1}";
+scale = "{1.10157, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{2, 3}";
-scale = "{0.96032, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -80027,7 +80003,7 @@ hints = (
 {
 origin = "{1, 3}";
 target = "{1, 4}";
-scale = "{0.94444, 1}";
+scale = "{0.95238, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -80035,7 +80011,7 @@ options = 3;
 {
 origin = "{0, 21}";
 target = "{0, 22}";
-scale = "{1.05281, 1}";
+scale = "{1.04678, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -80250,7 +80226,7 @@ nodes = (
 hints = (
 {
 origin = "{0, 6}";
-scale = "{1.0456, 1}";
+scale = "{1.03905, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -80909,7 +80885,7 @@ hints = (
 {
 origin = "{0, 6}";
 target = "{0, 7}";
-scale = "{1.0508, 1}";
+scale = "{1.04404, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -81068,7 +81044,7 @@ layers = (
 hints = (
 {
 origin = "{0, 0}";
-scale = "{0.98413, 1}";
+scale = "{0.97619, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -81371,7 +81347,7 @@ options = 3;
 },
 {
 origin = "{4, 2}";
-scale = "{0.74603, 1}";
+scale = "{0.75397, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -81468,14 +81444,14 @@ options = 3;
 },
 {
 origin = "{2, 2}";
-scale = "{0.74603, 1}";
+scale = "{0.75397, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{3, 0}";
-scale = "{0.73016, 1}";
+scale = "{0.7381, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -81493,7 +81469,7 @@ name = _corner.serfRight;
 },
 {
 origin = "{5, 3}";
-scale = "{0.71429, 1}";
+scale = "{0.72222, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -81570,7 +81546,7 @@ layers = (
 hints = (
 {
 origin = "{1, 0}";
-scale = "{0.73016, 1}";
+scale = "{0.7381, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -81588,21 +81564,21 @@ name = _corner.serfRight;
 },
 {
 origin = "{3, 3}";
-scale = "{0.71429, 1}";
+scale = "{0.72222, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{4, 14}";
-scale = "{0.72553, 1}";
+scale = "{0.73037, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{4, 27}";
-scale = "{0.69048, 1}";
+scale = "{0.69841, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -83585,7 +83561,7 @@ options = 3;
 },
 {
 origin = "{0, 25}";
-scale = "{0.8651, 1}";
+scale = "{0.87302, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -84289,7 +84265,7 @@ options = 3;
 },
 {
 origin = "{0, 15}";
-scale = "{1.1941, 1}";
+scale = "{1.18719, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -84820,7 +84796,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.0052, 1}";
+scale = "{1.00028, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -85171,14 +85147,14 @@ layers = (
 hints = (
 {
 origin = "{0, 2}";
-scale = "{1.14322, 1}";
+scale = "{1.14929, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{0, 15}";
-scale = "{1.03868, 1}";
+scale = "{1.03373, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -85264,7 +85240,7 @@ options = 3;
 },
 {
 origin = "{1, 15}";
-scale = "{1.04388, 1}";
+scale = "{1.03835, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -85285,7 +85261,7 @@ options = 3;
 },
 {
 origin = "{2, 25}";
-scale = "{0.98403, 1}";
+scale = "{0.9893, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -85754,28 +85730,28 @@ layers = (
 hints = (
 {
 origin = "{0, 1}";
-scale = "{0.88889, 1}";
+scale = "{0.88095, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{0, 3}";
-scale = "{0.88889, 1}";
+scale = "{0.88095, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{1, 1}";
-scale = "{0.88889, 1}";
+scale = "{0.88095, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{1, 3}";
-scale = "{0.88889, 1}";
+scale = "{0.88095, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -85905,14 +85881,14 @@ options = 3;
 },
 {
 origin = "{2, 1}";
-scale = "{0.8254, 1}";
+scale = "{0.81746, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{2, 3}";
-scale = "{0.8254, 1}";
+scale = "{0.81746, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -86194,7 +86170,7 @@ hints = (
 {
 origin = "{0, 0}";
 target = "{0, 1}";
-scale = "{1.0592, 1}";
+scale = "{1.06317, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -86202,7 +86178,7 @@ options = 3;
 {
 origin = "{0, 2}";
 target = "{0, 3}";
-scale = "{1.0527, 1}";
+scale = "{1.0572, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -86840,7 +86816,7 @@ unicode = 00B6;
 },
 {
 glyphname = section;
-lastChange = "2020-03-14 07:34:21 +0000";
+lastChange = "2020-08-30 10:01:08 +0000";
 layers = (
 {
 hints = (
@@ -86865,80 +86841,80 @@ paths = (
 {
 closed = 1;
 nodes = (
-"330 242 OFFCURVE",
-"435 287 OFFCURVE",
-"435 376 CURVE SMOOTH",
-"435 468 OFFCURVE",
-"371 505 OFFCURVE",
-"270 541 CURVE SMOOTH",
-"195 568 OFFCURVE",
-"175 584 OFFCURVE",
-"175 613 CURVE SMOOTH",
-"175 643 OFFCURVE",
-"199 661 OFFCURVE",
-"239 661 CURVE SMOOTH",
-"271 661 OFFCURVE",
-"304 645 OFFCURVE",
-"344 609 CURVE",
-"422 685 LINE",
-"358 730 OFFCURVE",
-"327 766 OFFCURVE",
-"241 766 CURVE SMOOTH",
-"137 766 OFFCURVE",
-"64 704 OFFCURVE",
-"64 615 CURVE SMOOTH",
-"64 547 OFFCURVE",
-"101 493 OFFCURVE",
-"182 470 CURVE SMOOTH",
-"301 436 OFFCURVE",
-"322 412 OFFCURVE",
-"322 380 CURVE SMOOTH",
-"322 341 OFFCURVE",
-"285 312 OFFCURVE",
-"199 285 CURVE",
-"285 222 LINE"
+"329 242 OFFCURVE",
+"434 287 OFFCURVE",
+"434 376 CURVE SMOOTH",
+"434 468 OFFCURVE",
+"370 505 OFFCURVE",
+"269 541 CURVE SMOOTH",
+"194 568 OFFCURVE",
+"174 584 OFFCURVE",
+"174 613 CURVE SMOOTH",
+"174 643 OFFCURVE",
+"198 661 OFFCURVE",
+"238 661 CURVE SMOOTH",
+"270 661 OFFCURVE",
+"303 645 OFFCURVE",
+"343 609 CURVE",
+"421 685 LINE",
+"357 730 OFFCURVE",
+"326 766 OFFCURVE",
+"240 766 CURVE SMOOTH",
+"136 766 OFFCURVE",
+"63 704 OFFCURVE",
+"63 615 CURVE SMOOTH",
+"63 547 OFFCURVE",
+"100 493 OFFCURVE",
+"181 470 CURVE SMOOTH",
+"300 436 OFFCURVE",
+"321 412 OFFCURVE",
+"321 380 CURVE SMOOTH",
+"321 341 OFFCURVE",
+"284 312 OFFCURVE",
+"198 285 CURVE",
+"284 222 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"358 -12 OFFCURVE",
-"436 53 OFFCURVE",
-"436 149 CURVE SMOOTH",
-"436 240 OFFCURVE",
-"372 277 OFFCURVE",
-"297 307 CURVE SMOOTH",
-"218 339 LINE SMOOTH",
-"186 352 OFFCURVE",
-"171 370 OFFCURVE",
-"171 394 CURVE SMOOTH",
-"171 426 OFFCURVE",
-"188 469 OFFCURVE",
-"284 471 CURVE",
-"218 550 LINE",
-"131 533 OFFCURVE",
-"64 464 OFFCURVE",
-"64 390 CURVE SMOOTH",
-"64 321 OFFCURVE",
-"102 274 OFFCURVE",
-"181 243 CURVE SMOOTH",
-"290 200 OFFCURVE",
-"318 192 OFFCURVE",
-"318 152 CURVE SMOOTH",
-"318 119 OFFCURVE",
-"289 97 OFFCURVE",
-"246 97 CURVE SMOOTH",
-"196 97 OFFCURVE",
-"163 117 OFFCURVE",
-"112 179 CURVE",
-"29 99 LINE",
-"96 26 OFFCURVE",
-"170 -12 OFFCURVE",
-"245 -12 CURVE SMOOTH"
+"357 -12 OFFCURVE",
+"435 53 OFFCURVE",
+"435 149 CURVE SMOOTH",
+"435 240 OFFCURVE",
+"371 277 OFFCURVE",
+"296 307 CURVE SMOOTH",
+"217 339 LINE SMOOTH",
+"185 352 OFFCURVE",
+"170 370 OFFCURVE",
+"170 394 CURVE SMOOTH",
+"170 426 OFFCURVE",
+"187 469 OFFCURVE",
+"283 471 CURVE",
+"217 550 LINE",
+"130 533 OFFCURVE",
+"63 464 OFFCURVE",
+"63 390 CURVE SMOOTH",
+"63 321 OFFCURVE",
+"101 274 OFFCURVE",
+"180 243 CURVE SMOOTH",
+"289 200 OFFCURVE",
+"317 192 OFFCURVE",
+"317 152 CURVE SMOOTH",
+"317 119 OFFCURVE",
+"288 97 OFFCURVE",
+"245 97 CURVE SMOOTH",
+"195 97 OFFCURVE",
+"162 117 OFFCURVE",
+"111 179 CURVE",
+"28 99 LINE",
+"95 26 OFFCURVE",
+"169 -12 OFFCURVE",
+"244 -12 CURVE SMOOTH"
 );
 }
 );
-width = 474;
+width = 473;
 }
 );
 leftMetricsKey = S;
@@ -87052,7 +87028,7 @@ name = _corner.serfLeft;
 },
 {
 origin = "{2, 3}";
-scale = "{0.69841, 1}";
+scale = "{0.70635, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -88041,7 +88017,7 @@ hints = (
 {
 origin = "{0, 3}";
 target = "{0, 4}";
-scale = "{1.004, 1}";
+scale = "{1.00521, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -88049,7 +88025,7 @@ options = 3;
 {
 origin = "{0, 7}";
 target = "{0, 0}";
-scale = "{1.1242, 1}";
+scale = "{1.12916, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -88084,14 +88060,14 @@ layers = (
 hints = (
 {
 origin = "{0, 1}";
-scale = "{1.119, 1}";
+scale = "{1.12698, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
 },
 {
 origin = "{0, 3}";
-scale = "{1.119, 1}";
+scale = "{1.12698, 1}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -88122,7 +88098,7 @@ hints = (
 {
 origin = "{1, 2}";
 target = "{1, 3}";
-scale = "{0.6279, 0.6}";
+scale = "{0.62477, 0.6}";
 type = Cap;
 name = _cap.serf;
 options = 3;
@@ -88130,7 +88106,7 @@ options = 3;
 {
 origin = "{1, 0}";
 target = "{1, 1}";
-scale = "{0.6279, 0.6}";
+scale = "{0.62477, 0.6}";
 type = Cap;
 name = _cap.serf;
 options = 3;
