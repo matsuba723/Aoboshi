@@ -1,6 +1,6 @@
 # Aoboshi
 
-<img src="./aoboshi_sample.png" />
+<img src="./Documentation/aoboshi_sample.png" />
 
 
 
