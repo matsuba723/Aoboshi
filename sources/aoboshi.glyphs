@@ -2,7 +2,8 @@
 .appVersion = "1346";
 DisplayStrings = (
 "ß",
-"pþqrsbBFußballbßtuúûüùv"
+"pþqrsbBFußballbßtuúûüùv",
+"/asmall-hira.vert"
 );
 copyright = "Copyright © 2018 by IKIMOJI. All rights reserved.";
 customParameters = (
@@ -21,6 +22,10 @@ value = "Adobe-Identity-0";
 {
 name = localizedFamilyName;
 value = "Japanese;あおぼし";
+},
+{
+name = vendorID;
+value = IKMJ;
 }
 );
 date = "2020-03-15 14:06:21 +0000";
