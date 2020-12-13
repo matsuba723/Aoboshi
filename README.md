@@ -7,7 +7,7 @@
 <h2>このフォントについて</h2>
 「あおぼし」はCopperplate Gothicのような<br />
 文字の太さが均一でセリフのある和文書体を目指して制作しました。<br />
-
+<br />
 “Aoboshi” is a Serif style Japanese font inspired by Copperplate Gothic.
 
 <h2>収録文字</h2>
